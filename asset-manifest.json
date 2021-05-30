@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-lexicon/static/css/main.6427b7f5.chunk.css",
+    "main.js": "/movie-lexicon/static/js/main.43c04164.chunk.js",
+    "main.js.map": "/movie-lexicon/static/js/main.43c04164.chunk.js.map",
+    "runtime-main.js": "/movie-lexicon/static/js/runtime-main.e1060e17.js",
+    "runtime-main.js.map": "/movie-lexicon/static/js/runtime-main.e1060e17.js.map",
+    "static/js/2.314661f6.chunk.js": "/movie-lexicon/static/js/2.314661f6.chunk.js",
+    "static/js/2.314661f6.chunk.js.map": "/movie-lexicon/static/js/2.314661f6.chunk.js.map",
+    "index.html": "/movie-lexicon/index.html",
+    "static/css/main.6427b7f5.chunk.css.map": "/movie-lexicon/static/css/main.6427b7f5.chunk.css.map",
+    "static/js/2.314661f6.chunk.js.LICENSE.txt": "/movie-lexicon/static/js/2.314661f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1060e17.js",
+    "static/js/2.314661f6.chunk.js",
+    "static/css/main.6427b7f5.chunk.css",
+    "static/js/main.43c04164.chunk.js"
+  ]
+}
